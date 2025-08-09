@@ -5,18 +5,26 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { createStackNavigator } from '@react-navigation/stack';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import AddPlantScreen from './screens/AddPlantScreen';
+import HomeScreen from './screens/HomeScreen';
+import PlantOverviewScreen from './screens/PlantOverviewScreen';
+import NotificationsScreen from './screens/NotificationsScreen';
+import PlantFactScreen from './screens/PlantFactScreen';
 
-// Screens for navigation
-function HomeScreen({ navigation }) {
-  return (
-    <SafeAreaView>
-      <Text>Welcome to GreenThumb!</Text>
-    </SafeAreaView>
-  );
-}
+
 
 const Tab = createBottomTabNavigator();
 const Stack = createStackNavigator();
+
+function HomeStack() {
+  return (
+    <Stack.Navigator>
+      <Stack.Screen name="HomeMain" component={HomeScreen} options={{ headerShown: false }} />
+      <Stack.Screen name="PlantOverview" component={PlantOverviewScreen} options={{ title: 'Plant Overview' }} />
+      <Stack.Screen name="Notifications" component={NotificationsScreen} options={{ title: 'Upcoming Notifications' }} />
+      <Stack.Screen name="PlantFact" component={PlantFactScreen} options={{ title: 'Random Plant Fact' }} />
+    </Stack.Navigator>
+  );
+}
 
 function App() {
   return (
@@ -36,7 +44,7 @@ function App() {
           tabBarInactiveTintColor: 'gray',
         })}
       >
-        <Tab.Screen name="Home" component={HomeScreen} />
+        <Tab.Screen name="Home" component={HomeStack} options={{ headerShown: false }} />
         <Tab.Screen name="Add Plant" component={AddPlantScreen} />
       </Tab.Navigator>
     </NavigationContainer>
