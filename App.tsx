@@ -1,28 +1,37 @@
-import React from 'react';
-import { SafeAreaView, Text, View, StyleSheet } from 'react-native';
+import * as React from 'react';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import { Text, SafeAreaView, Button } from 'react-native';
 
-const App = () => {
+const Stack = createStackNavigator();
+
+function HomeScreen({ navigation }: any) {
   return (
-    <SafeAreaView style={styles.container}>
-      <View>
-        <Text style={styles.title}>Welcome to GreenThumb!</Text>
-        <Text>Manage your plant inventory and care details</Text>
-      </View>
+    <SafeAreaView>
+      <Text>Welcome to GreenThumb!</Text>
+      <Button
+        title="Add Plant"
+        onPress={() => navigation.navigate('Add Plant')}
+      />
     </SafeAreaView>
   );
-};
+}
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#fff',
-  },
-  title: {
-    fontSize: 24,
-    fontWeight: 'bold',
-  },
-});
+function AddPlantScreen() {
+  return (
+    <SafeAreaView>
+      <Text>Add your plant details here.</Text>
+    </SafeAreaView>
+  );
+}
 
-export default App;
+export default function App() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator initialRouteName="Home">
+        <Stack.Screen name="Home" component={HomeScreen} />
+        <Stack.Screen name="Add Plant" component={AddPlantScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}
