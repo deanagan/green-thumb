@@ -1,27 +1,26 @@
-| Variety | Colour | Shade / Heat Protection | Heat Hardiness | Cut Flower | Cut Tier | Pot Suit |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Princess Anne®** | Deep rich pink | Yes (Partial) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Tier 1** | ⭐⭐⭐⭐⭐ |
-| **Roald Dahl®** | Apricot | Yes (Afternoon) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐⭐ |
-| **Olivia Rose Austin®** | Soft pink | Yes (Partial) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐⭐⭐ |
-| **Boscobel®** | Coral-pink | No (Loves sun) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Tier 1** | ⭐⭐⭐⭐ |
-| **Desdemona™** | Peachy white | Yes (Partial) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐⭐ |
-| **Munstead Wood** | Velvety crimson | **Essential** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐ |
-| **Golden Celebration®** | Rich gold | Yes (Partial) | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐ |
-| **Molineux** | Yellow blend | Yes (Partial) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐⭐⭐ |
-| **Gabriel Oak®** | Deep pink | Yes (Partial) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐ |
-| **Lady of Shalott®** | Orange-red | Yes (Tolerant) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐ |
-| **Abraham Darby®** | Apricot / Yellow | Yes (Partial) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Tier 1** | ⭐⭐⭐ |
-| **Jude the Obscure** | Buff yellow | No (Loves sun) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐ |
-| **Princess Alexandra of Kent®** | Soft pink / Apricot | Yes (Partial) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐ |
-| **The Poet’s Wife®** | Rich yellow | Yes (Partial) | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐⭐ |
-| **Darcey Bussell®** | Deep crimson | Yes (Afternoon) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐⭐ |
-| **Scepter'd Isle** | Soft pink | Yes (Tolerant) | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐ |
-| **Claire Austin™** | Cream white | Yes (Partial) | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐⭐ |
-| **Teasing Georgia®** | Yellow | Yes (Tolerant) | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐ |
-| **Heathcliff®** | Deep red | Yes (Afternoon) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Tier 1** | ⭐⭐⭐ |
-| **Wollerton Old Hall®** | Pale apricot | Yes (Partial) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐ |
-
-
+| Variety | Colour | Shade / Heat Protection | Heat Hardiness | West Facing Safe | Cut Flower | Cut Tier | Pot Suit |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Princess Anne®** | Deep rich pink | Yes (Partial) | ⭐⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐⭐⭐ | **Tier 1** | ⭐⭐⭐⭐⭐ |
+| **Roald Dahl®** | Apricot | Yes (Afternoon) | ⭐⭐⭐⭐⭐ | Yes (with shade) | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐⭐ |
+| **Olivia Rose Austin®** | Soft pink | Yes (Partial) | ⭐⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐⭐⭐ |
+| **Boscobel®** | Coral-pink | No (Loves sun) | ⭐⭐⭐⭐⭐ | **Yes** | ⭐⭐⭐⭐⭐ | **Tier 1** | ⭐⭐⭐⭐ |
+| **Desdemona™** | Peachy white | Yes (Partial) | ⭐⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐⭐ |
+| **Pope John Paul II®** | Pure white | Yes (Partial) | ⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐⭐⭐ | **Tier 1** | ⭐⭐⭐⭐ |
+| **Munstead Wood** | Velvety crimson | **Essential** | ⭐⭐⭐⭐ | **No** | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐ |
+| **Golden Celebration®** | Rich gold | Yes (Partial) | ⭐⭐⭐⭐ | No | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐ |
+| **Molineux** | Yellow blend | Yes (Partial) | ⭐⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐⭐⭐ |
+| **Gabriel Oak®** | Deep pink | Yes (Partial) | ⭐⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐ |
+| **Lady of Shalott®** | Orange-red | Yes (Tolerant) | ⭐⭐⭐⭐⭐ | **Yes** | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐ |
+| **Abraham Darby®** | Apricot / Yellow | Yes (Partial) | ⭐⭐⭐⭐ | No | ⭐⭐⭐⭐⭐ | **Tier 1** | ⭐⭐⭐ |
+| **Jude the Obscure** | Buff yellow | No (Loves sun) | ⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐ |
+| **Princess Alexandra of Kent®** | Soft pink / Apricot | Yes (Partial) | ⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐ |
+| **The Poet’s Wife®** | Rich yellow | Yes (Partial) | ⭐⭐⭐⭐ | No | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐⭐ |
+| **Darcey Bussell®** | Deep crimson | Yes (Afternoon) | ⭐⭐⭐⭐ | Yes (with shade) | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐⭐⭐ |
+| **Scepter'd Isle** | Soft pink | Yes (Tolerant) | ⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐ |
+| **Claire Austin™** | Cream white | Yes (Partial) | ⭐⭐⭐⭐ | No | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐⭐ |
+| **Teasing Georgia®** | Yellow | Yes (Tolerant) | ⭐⭐⭐⭐ | Yes (with care) | ⭐⭐⭐ | **Tier 3** | ⭐⭐⭐ |
+| **Heathcliff®** | Deep red | Yes (Afternoon) | ⭐⭐⭐⭐ | Yes (with shade) | ⭐⭐⭐⭐⭐ | **Tier 1** | ⭐⭐⭐ |
+| **Wollerton Old Hall®** | Pale apricot | Yes (Partial) | ⭐⭐⭐⭐ | No | ⭐⭐⭐⭐ | **Tier 2** | ⭐⭐⭐ |
 ## Legend
 **Tier 1 – Excellent florist rose**
 - Long, strong stems  
