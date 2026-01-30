@@ -67,15 +67,20 @@ This balance maintains airflow under the cover and avoids crown rot.
 ## Plant Arrangement (Top View)
 **North is at the top ⬆️**
 
-NORTH (sun)
-----------------------------
-[A]     [A]     [A]     [A]
+## Vegepod Plant Arrangement  
+*North-facing sun (long side facing north)*
 
-   [S]     [S]     [S]
+| North (Sun) |  |  |  |
+|------------|--|--|--|
+| 🍓 Alpine  | 🍓 Alpine | 🍓 Alpine | 🍓 Alpine |
+|            | 🥬 Spinach | 🥬 Spinach | 🥬 Spinach |
+| 🍓 Alpine  | 🍓 Alpine | 🍓 Alpine | 🍓 Alpine |
+| South      |            |            |            |
 
-[A]     [A]     [A]     [A]
-----------------------------
-SOUTH
+### Legend
+- 🍓 **Alpine strawberry**
+- 🥬 **Spinach**
+
 
 ### Legend
 - **A** = Alpine strawberry  
