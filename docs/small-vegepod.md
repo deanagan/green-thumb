@@ -50,6 +50,56 @@
 - Fruit will be smaller in low sun
 - Plants stay healthy under the cover
 
+# Vegepod Planting Guide  
+**Alpine Strawberries + Spinach**  
+*North-facing sun (long side facing north)*
+
+---
+
+## Plant Quantities
+- 🍓 **Alpine strawberries:** 8 plants  
+- 🥬 **Spinach (baby leaf):** 6–8 plants  
+
+This balance maintains airflow under the cover and avoids crown rot.
+
+---
+
+## Plant Arrangement (Top View)
+**North is at the top ⬆️**
+
+NORTH (sun)
+[A]     [A]     [A]     [A]
+[S]     [S]     [S]
+[A]     [A]     [A]     [A]
+SOUTH
+
+### Legend
+- **A** = Alpine strawberry  
+- **S** = Spinach  
+
+---
+
+## Spacing Guidelines
+- Alpine strawberries: **20–25 cm apart**
+- Spinach: **15–20 cm apart**
+- Keep spinach **5–7 cm clear of strawberry crowns**
+
+---
+
+## Vegepod-Specific Tips
+- Trim strawberry leaves that grow inward or touch soil
+- Harvest spinach early and often (cut-and-come-again)
+- Avoid keeping soil constantly wet (humidity builds up under cover)
+- Feed lightly every **2–3 weeks** (diluted liquid fertiliser or seaweed)
+
+---
+
+## Expected Results
+- Healthy strawberry crowns
+- Smaller but consistent alpine fruit in part sun
+- Tender spinach leaves
+- Reduced pest pressure under the cover
+
 ### 🌸 Edible & Beneficial Mix
 - Calendula
 - Coriander (allow one plant to flower)
