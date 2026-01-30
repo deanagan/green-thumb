@@ -82,11 +82,7 @@ This balance maintains airflow under the cover and avoids crown rot.
 - 🥬 **Spinach**
 
 
-### Legend
-- **A** = Alpine strawberry  
-- **S** = Spinach  
 
----
 
 ## Spacing Guidelines
 - Alpine strawberries: **20–25 cm apart**
