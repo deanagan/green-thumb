@@ -69,7 +69,7 @@ This balance maintains airflow under the cover and avoids crown rot.
 
 NORTH (sun)
 [A]     [A]     [A]     [A]
-[S]     [S]     [S]
+   [S]     [S]     [S]
 [A]     [A]     [A]     [A]
 SOUTH
 
