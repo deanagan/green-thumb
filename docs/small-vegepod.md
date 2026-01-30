@@ -68,9 +68,13 @@ This balance maintains airflow under the cover and avoids crown rot.
 **North is at the top ⬆️**
 
 NORTH (sun)
+
 [A]     [A]     [A]     [A]
+
    [S]     [S]     [S]
+
 [A]     [A]     [A]     [A]
+
 SOUTH
 
 ### Legend
